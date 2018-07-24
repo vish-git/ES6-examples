@@ -1,0 +1,19 @@
+{
+  "name": "es6-examples",
+  "version": "1.0.0",
+  "description": "This provides es6 latest features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node destructuring.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish-git/ES6-examples.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vish-git/ES6-examples/issues"
+  },
+  "homepage": "https://github.com/vish-git/ES6-examples#readme"
+}
