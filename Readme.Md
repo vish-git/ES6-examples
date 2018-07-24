@@ -1,1 +1,1 @@
-This repo examples all git latest features in ES6
+This repo examples demo latest features in ES6
