@@ -1,0 +1,1 @@
+This git examples all git latest features in ES6
